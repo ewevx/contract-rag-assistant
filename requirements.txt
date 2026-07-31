@@ -1,6 +1,9 @@
 langchain
-langchain-openai
+langchain-core
 langchain-community
+langchain-groq
+langchain-huggingface
+langchain-chroma
 chromadb
 pypdf2
 python-dotenv
