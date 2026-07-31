@@ -1,0 +1,11 @@
+# Ambiente Virtual
+venv/
+__pycache__/
+.pytest_cache/
+
+# Variáveis de Ambiente (NUNCA commitar chaves de API)
+.env
+
+# Dados e Banco Vetorial (Ignoramos o conteúdo, mas mantemos a pasta)
+data/raw_contracts/*.pdf
+data/vectorstore/
