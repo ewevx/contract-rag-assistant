@@ -64,7 +64,7 @@ O software executa inspeções baseadas em quatro diretrizes rígidas:
 
 ### Passo 1: Clonar e Preparar o Repositório
 ```bash
-git clone https://github.com/ewevx/<contract-rag-assistant>.git
+git clone https://github.com/ewevx/contract-rag-assistant.git
 cd contract-rag-assistant
 
 # Criar ambiente virtual Python
